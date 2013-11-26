@@ -1,0 +1,23 @@
+﻿<Application x:Class="LL.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="Views/MainWindowView.xaml">
+    <Application.Resources>
+        <!--Стили для кнопок окна-->
+        <Style x:Key="WindowButtonControl">           
+            <Setter Property="Shape.Fill" Value="Transparent"></Setter>
+            <Style.Triggers>
+                <Trigger Property="Control.IsMouseOver" Value="True">
+                    <Setter Property="Shape.Fill" Value="Gray"></Setter>
+                    <Setter Property="UIElement.Opacity" Value="0.3"></Setter>                    
+                </Trigger>
+            </Style.Triggers>           
+        </Style>
+        <!--Стили для элементов меню-->
+        <Style TargetType="{x:Type MenuItem}">
+            <!--<Setter Property="Background" Value="#FF4B4B4B"></Setter>-->
+            <Setter Property="Foreground" Value="Black"></Setter>
+            <!--<Setter Property="BorderThickness" Value="0"></Setter>-->
+        </Style>        
+    </Application.Resources>
+</Application>

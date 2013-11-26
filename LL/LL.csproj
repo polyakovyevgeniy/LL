@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5BE4093B-1262-4B66-966B-F41A2FCF51CA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LL</RootNamespace>
+    <AssemblyName>LL</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>MainHeader.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Expression.Interactions, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.Expression.Interactions.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\System.Windows.Interactivity.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="Xceed.Wpf.Toolkit, Version=2.0.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Xceed.Wpf.Toolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="App_Code\NotifyPropertyChangedImplements.cs" />
+    <Compile Include="App_Code\RichTextBoxDependency.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="Helpers\Converters\BooleanToVisibleConverter.cs" />
+    <Compile Include="Helpers\Converters\BooleanToVisibleInvertConverter.cs" />
+    <Compile Include="Helpers\Converters\TrueToFalseConverter.cs" />
+    <Compile Include="Helpers\Loaded\LoadApplication.cs" />
+    <Compile Include="obj\Debug\App.g.cs" />
+    <Compile Include="obj\Debug\App.g.i.cs" />
+    <Compile Include="obj\Debug\GeneratedInternalTypeHelper.g.cs" />
+    <Compile Include="obj\Debug\GeneratedInternalTypeHelper.g.i.cs" />
+    <Compile Include="obj\Debug\LL_Content.g.i.cs" />
+    <Compile Include="obj\Debug\MainWindow.g.i.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="obj\Debug\Views\AboutLLView.g.i.cs" />
+    <Compile Include="obj\Debug\Views\AddBookView.g.i.cs" />
+    <Compile Include="obj\Debug\Views\AddNoteView.g.i.cs" />
+    <Compile Include="obj\Debug\Views\MainWindowView.g.i.cs" />
+    <Compile Include="obj\Debug\Views\NoteViewerView.g.i.cs" />
+    <Compile Include="obj\Debug\Views\SettingsView.g.i.cs" />
+    <Compile Include="obj\Debug\View\MainWindow.g.i.cs" />
+    <Compile Include="obj\Debug\View\MainWindowView.g.i.cs" />
+    <Compile Include="Settings\MainSettings\AppSettings.cs" />
+    <Compile Include="Settings\MainSettings\FileProgram.cs" />
+    <Compile Include="ViewModels\AddNoteViewModel.cs" />
+    <Compile Include="ViewModels\AddBookViewModel.cs" />
+    <Compile Include="ViewModels\Command.cs" />
+    <Compile Include="ViewModels\MainWindowViewModel.cs" />
+    <Page Include="Views\SettingsView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\AddNoteView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\NoteViewerView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\AboutLLView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\AddBookView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\MainWindowView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Models\Book.cs" />
+    <Compile Include="Models\BooksModel.cs" />
+    <Compile Include="Models\Note.cs" />
+    <Compile Include="ViewModels\NoteViewerViewModel.cs" />
+    <Compile Include="Views\SettingsView.xaml.cs">
+      <DependentUpon>SettingsView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AddNoteView.xaml.cs">
+      <DependentUpon>AddNoteView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\NoteViewerView.xaml.cs">
+      <DependentUpon>NoteViewerView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AboutLLView.xaml.cs">
+      <DependentUpon>AboutLLView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\AddBookView.xaml.cs">
+      <DependentUpon>AddBookView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MainWindowView.xaml.cs">
+      <DependentUpon>MainWindowView.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="obj\Debug\LL.g.resources" />
+    <EmbeddedResource Include="obj\Debug\LL.Properties.Resources.resources" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="bin\Debug\111.bin" />
+    <None Include="bin\Debug\LL.exe.config" />
+    <None Include="bin\Debug\LL.vshost.exe.config" />
+    <None Include="bin\Debug\LL.vshost.exe.manifest" />
+    <None Include="obj\Debug\App.baml" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\LL.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\LL.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\Debug\LL_MarkupCompile.cache" />
+    <None Include="obj\Debug\LL_MarkupCompile.i.cache" />
+    <None Include="obj\Debug\LL_MarkupCompile.i.lref" />
+    <None Include="obj\Debug\LL_MarkupCompile.lref" />
+    <None Include="Properties\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\EditItems.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\GeneralIcons\Close.ico" />
+    <Resource Include="Views\ViewIcons\GeneralIcons\Maximize.ico" />
+    <Resource Include="Views\ViewIcons\GeneralIcons\Minimise.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\EditItems2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\GeneralIcons\MainHeader2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\GeneralIcons\MainHeader.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\GeneralIcons\Process.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\File\Save.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\File\Open.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\Note\ShareUseSharedFolders.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\Note\ShreUseEmail.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\File\ConvertToWord.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\Note\PrintNote.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\File\Exit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\GeneralIcons\MainHeader3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="MainHeader.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\File\SaveAs.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\File\OpenBook.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\File\OpenNote.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\Note\DeleteNote.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\Note\EditNote.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\Book\DeleteBook.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\Book\EditBook.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\Book\AddBook.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\Note\AddNote.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\Note\ShowInViewer.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\Note\ShowInNotepad.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\File\ConvertToTxt.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\File\ConvertToPdf.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\WorkingPart\Code.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\WorkingPart\Code2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\WorkingPart\Description.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\WorkingPart\TitileNote.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\WorkingPart\Tag.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\WorkingPart\BookTitle.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\WorkingPart\Path.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\WorkingPart\Browse.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\WorkingPart\Browse2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\NavigatePanel\Book.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\WorkingPart\PageNumber.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\GeneralIcons\MainHeader4.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\MainMenu\Book\OpenBookInTheDefaultEditor.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\NavigatePanel\Note.ico" />
+    <Resource Include="Views\ViewIcons\MainWindowViewIcons\NavigatePanel\1385138810_175335.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\LL.exe" />
+    <Content Include="bin\Debug\LL.pdb" />
+    <Content Include="bin\Debug\LL.vshost.exe" />
+    <Content Include="bin\Debug\Microsoft.Expression.Interactions.dll" />
+    <Content Include="bin\Debug\System.Windows.Interactivity.dll" />
+    <Content Include="bin\Debug\Xceed.Wpf.Toolkit.dll" />
+    <Resource Include="obj\Debug\LL.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\LL.exe" />
+    <Content Include="obj\Debug\LL.pdb" />
+    <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\de\" />
+    <Folder Include="bin\Debug\en\" />
+    <Folder Include="bin\Debug\es\" />
+    <Folder Include="bin\Debug\fr\" />
+    <Folder Include="bin\Debug\it\" />
+    <Folder Include="bin\Debug\ja\" />
+    <Folder Include="bin\Debug\ko\" />
+    <Folder Include="bin\Debug\ru\" />
+    <Folder Include="bin\Debug\zh-Hans\" />
+    <Folder Include="bin\Debug\zh-Hant\" />
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

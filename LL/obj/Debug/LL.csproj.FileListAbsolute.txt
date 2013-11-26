@@ -1,0 +1,334 @@
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\LL.exe.config
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\LL.exe
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\LL.pdb
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\Views\AddBookView.baml
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\App.baml
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\Views\AddBookView.g.cs
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\App.g.cs
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\LL_MarkupCompile.cache
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\LL_MarkupCompile.lref
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\Views\MainWindowView.baml
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\LL.g.resources
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\LL.Properties.Resources.resources
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\LL.exe
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\LL.pdb
+C:\Users\Yevgeniy\Desktop\LL\LL\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+D:\LL\LL\bin\Debug\LL.exe.config
+D:\LL\LL\obj\Debug\LL.exe
+D:\LL\LL\obj\Debug\LL.pdb
+D:\LL\LL\bin\Debug\LL.exe
+D:\LL\LL\bin\Debug\LL.pdb
+D:\LL\LL\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\LL\LL\bin\Debug\System.Windows.Interactivity.dll
+D:\LL\LL\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\LL\LL\bin\Debug\System.Windows.Interactivity.xml
+D:\LL\LL\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\LL\LL\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\LL\LL\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\LL\LL\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\LL\LL\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\LL\LL\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\LL\LL\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\LL\LL\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\LL\LL\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\LL\LL\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\LL\LL\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\LL\LL\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\LL\LL\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\LL\LL\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\LL\LL\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\LL\LL\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\LL\LL\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\LL\LL\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+D:\LL\LL\obj\Debug\App.baml
+D:\LL\LL\obj\Debug\Views\AddBookView.g.cs
+D:\LL\LL\obj\Debug\Views\MainWindowView.g.cs
+D:\LL\LL\obj\Debug\App.g.cs
+D:\LL\LL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\LL\LL\obj\Debug\LL_MarkupCompile.cache
+D:\LL\LL\obj\Debug\LL_MarkupCompile.lref
+D:\LL\LL\obj\Debug\Views\AddBookView.baml
+D:\LL\LL\obj\Debug\Views\MainWindowView.baml
+D:\LL\LL\obj\Debug\LL.g.resources
+D:\LL\LL\obj\Debug\LL.Properties.Resources.resources
+D:\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+E:\LL\LL\bin\Debug\LL.exe.config
+E:\LL\LL\obj\Debug\LL.exe
+E:\LL\LL\obj\Debug\LL.pdb
+H:\LL\LL\bin\Debug\LL.exe.config
+H:\LL\LL\obj\Debug\LL.exe
+H:\LL\LL\obj\Debug\LL.pdb
+H:\LL\LL\bin\Debug\LL.exe
+H:\LL\LL\bin\Debug\LL.pdb
+H:\LL\LL\bin\Debug\Microsoft.Expression.Interactions.xml
+H:\LL\LL\bin\Debug\System.Windows.Interactivity.xml
+H:\LL\LL\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+H:\LL\LL\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+H:\LL\LL\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+H:\LL\LL\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+H:\LL\LL\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+H:\LL\LL\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+H:\LL\LL\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+H:\LL\LL\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+H:\LL\LL\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+H:\LL\LL\bin\Debug\de\System.Windows.Interactivity.resources.dll
+H:\LL\LL\bin\Debug\en\System.Windows.Interactivity.resources.dll
+H:\LL\LL\bin\Debug\es\System.Windows.Interactivity.resources.dll
+H:\LL\LL\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+H:\LL\LL\bin\Debug\it\System.Windows.Interactivity.resources.dll
+H:\LL\LL\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+H:\LL\LL\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+H:\LL\LL\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+H:\LL\LL\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+H:\LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+H:\LL\LL\obj\Debug\App.baml
+H:\LL\LL\obj\Debug\Views\AddBookView.g.cs
+H:\LL\LL\obj\Debug\Views\MainWindowView.g.cs
+H:\LL\LL\obj\Debug\App.g.cs
+H:\LL\LL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\LL\LL\obj\Debug\LL_MarkupCompile.cache
+H:\LL\LL\obj\Debug\LL_MarkupCompile.lref
+H:\LL\LL\obj\Debug\Views\AddBookView.baml
+H:\LL\LL\obj\Debug\Views\MainWindowView.baml
+H:\LL\LL\obj\Debug\LL.g.resources
+H:\LL\LL\obj\Debug\LL.Properties.Resources.resources
+H:\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+H:\LL\LL\obj\Debug\Views\AddNoteView.g.cs
+H:\LL\LL\obj\Debug\Views\AddNoteView.baml
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\Views\AddNoteView.g.cs
+C:\Users\Yevgeniy\Desktop\LL\LL\obj\Debug\Views\AddNoteView.baml
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\LL.exe.config
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\LL.exe
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\LL.pdb
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\LL.exe
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\LL.pdb
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\App.baml
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\Views\AddNoteView.g.cs
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\Views\AddBookView.g.cs
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\App.g.cs
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\LL_MarkupCompile.cache
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\LL_MarkupCompile.lref
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\Views\AddNoteView.baml
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\Views\AddBookView.baml
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\Views\MainWindowView.baml
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\LL.g.resources
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\LL.Properties.Resources.resources
+C:\Users\epolyakov\Desktop\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\LL.exe.config
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.exe
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.pdb
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\LL.exe
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\LL.pdb
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\App.baml
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AddNoteView.g.cs
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AddBookView.g.cs
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\App.g.cs
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL_MarkupCompile.cache
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL_MarkupCompile.lref
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AddNoteView.baml
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AddBookView.baml
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\MainWindowView.baml
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.g.resources
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.Properties.Resources.resources
+C:\Users\Yevgeniy\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\LL.exe.config
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\LL.exe
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\LL.pdb
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AboutLLView.baml
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\App.baml
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AddNoteView.g.cs
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\NoteViewerView.g.cs
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AboutLLView.g.cs
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AddBookView.g.cs
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\App.g.cs
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL_MarkupCompile.cache
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL_MarkupCompile.lref
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AddNoteView.baml
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\NoteViewerView.baml
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AddBookView.baml
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\MainWindowView.baml
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.g.resources
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.Properties.Resources.resources
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.exe
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.pdb
+C:\Users\epolyakov\Desktop\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\LL.exe.config
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\LL.exe
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\bin\Debug\LL.pdb
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AboutLLView.baml
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\App.baml
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\SettingsView.g.cs
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AddNoteView.g.cs
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\NoteViewerView.g.cs
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AboutLLView.g.cs
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AddBookView.g.cs
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\App.g.cs
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL_MarkupCompile.cache
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL_MarkupCompile.lref
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\SettingsView.baml
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AddNoteView.baml
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\NoteViewerView.baml
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\AddBookView.baml
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\Views\MainWindowView.baml
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.g.resources
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.Properties.Resources.resources
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.exe
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.pdb
+C:\Users\Yevgeniy\Desktop\New folder (2)\НОВАЯ ФИГНЯ\LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\bin\Debug\LL.exe.config
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\LL.exe
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\LL.pdb
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\bin\Debug\LL.exe
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\bin\Debug\LL.pdb
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\Views\AboutLLView.baml
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\App.baml
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\Views\SettingsView.g.cs
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\Views\AddNoteView.g.cs
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\Views\NoteViewerView.g.cs
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\Views\AboutLLView.g.cs
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\Views\AddBookView.g.cs
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\Views\MainWindowView.g.cs
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\App.g.cs
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\LL_MarkupCompile.cache
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\LL_MarkupCompile.lref
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\Views\SettingsView.baml
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\Views\AddNoteView.baml
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\Views\NoteViewerView.baml
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\Views\AddBookView.baml
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\Views\MainWindowView.baml
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\LL.g.resources
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\LL.Properties.Resources.resources
+F:\MAIN\My_Files\Home\PROJECTS\REPOSITORIES\LL_REPOSITORY\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\Views\AboutLLView.baml
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\App.baml
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\Views\SettingsView.g.cs
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\Views\AddNoteView.g.cs
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\Views\NoteViewerView.g.cs
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\Views\AboutLLView.g.cs
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\Views\AddBookView.g.cs
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\App.g.cs
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\LL_MarkupCompile.cache
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\LL_MarkupCompile.lref
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\LL.pdb
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\bin\Debug\LL.exe.config
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\bin\Debug\LL.exe
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\bin\Debug\LL.pdb
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\Views\SettingsView.baml
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\Views\AddNoteView.baml
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\Views\NoteViewerView.baml
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\Views\AddBookView.baml
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\Views\MainWindowView.baml
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\LL.g.resources
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\LL.Properties.Resources.resources
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+C:\Users\Yevgeniy\Desktop\ТУТ LL\LL\obj\Debug\LL.exe
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\bin\Debug\LL.exe.config
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\LL.exe
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\LL.pdb
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\bin\Debug\LL.exe
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\bin\Debug\LL.pdb
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\Views\AboutLLView.baml
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\App.baml
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\Views\SettingsView.g.cs
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\Views\AddNoteView.g.cs
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\Views\NoteViewerView.g.cs
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\Views\AboutLLView.g.cs
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\Views\AddBookView.g.cs
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\Views\MainWindowView.g.cs
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\App.g.cs
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\LL_MarkupCompile.cache
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\LL_MarkupCompile.lref
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\Views\SettingsView.baml
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\Views\AddNoteView.baml
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\Views\NoteViewerView.baml
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\Views\AddBookView.baml
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\Views\MainWindowView.baml
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\LL.g.resources
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\LL.Properties.Resources.resources
+E:\Polyakov\Share\Cloud\DropBox\Dropbox\ТУТ LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+E:\Polyakov\Share\REPOSITORIES\GIT\GIT_HUB\LL_REPOSITORY\LL\bin\Debug\LL.exe.config
+E:\Polyakov\Share\REPOSITORIES\GIT\GIT_HUB\LL_REPOSITORY\LL\obj\Debug\LL.exe
+E:\Polyakov\Share\REPOSITORIES\GIT\GIT_HUB\LL_REPOSITORY\LL\obj\Debug\LL.pdb

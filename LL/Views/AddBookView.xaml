@@ -1,0 +1,147 @@
+﻿<Window x:Class="LL.Views.AddBookView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:viewModel="clr-namespace:LL.ViewModels"
+        xmlns:extwndedWpfToolKit="clr-namespace:Xceed.Wpf.Toolkit;assembly=Xceed.Wpf.Toolkit"
+        Title="Add Book" Height="500" Width="500" WindowStartupLocation="CenterScreen"
+        AllowsTransparency="True" WindowStyle="None" ResizeMode="CanResizeWithGrip">
+    <Window.DataContext>
+        <viewModel:AddBookViewModel></viewModel:AddBookViewModel>
+    </Window.DataContext>
+    <Border BorderThickness="1" BorderBrush="Black" Background="#FFECECEC">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <!--Верхняя часть приложения-->
+            <Grid Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Rectangle Grid.Row="0" x:Name="WindowRect" Height="30" Fill="#FF4B4B4B"/>
+
+                <!--Заголовки выбранных элементов-->
+                <Grid Grid.Row="0" Margin="30, 0, 0, 0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"></ColumnDefinition>
+                        <ColumnDefinition Width="Auto"></ColumnDefinition>
+                        <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <!--Заголовок приложения-->
+                    <TextBlock HorizontalAlignment="Left" VerticalAlignment="Center" Foreground="White" FontWeight="Bold">Add Book</TextBlock>
+                </Grid>
+
+                <!--Закрытие приложения-->
+                <Button Grid.Row="0" Height="30" Width="30"  Margin="0, 0, 10, 0" HorizontalAlignment="Right" Style="{StaticResource WindowButtonControl}" x:Name="btnWindowClose">
+                    <Button.Content>
+                        <Image Source="ViewIcons/GeneralIcons/Close.ico" Grid.Row="0" Height="10"></Image>
+                    </Button.Content>
+                </Button>
+            </Grid>
+            
+            <!--Центральная часть приложения-->
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <!--Заголовок-->
+                <Grid Grid.Row="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <!--Метка заголовка-->
+                    <TextBlock FontWeight="Black" Margin="5, 0, 0, 0" TextDecorations="Underline">TITLE:</TextBlock>
+                    <Rectangle Fill="#FFF0F0F0" Margin="15, 15, 35, 15" Grid.Row="1">
+                        <Rectangle.BitmapEffect>
+                            <DropShadowBitmapEffect ShadowDepth="1" Direction="1" Opacity="0.1"></DropShadowBitmapEffect>
+                        </Rectangle.BitmapEffect>
+                    </Rectangle>
+                    <!--Поле для ввода заголовка-->
+                    <TextBox Grid.Row="1" Margin="10" Height="30" Background="Transparent" BorderThickness="0" Foreground="DarkRed" FontSize="10" TextWrapping="Wrap" FontWeight="Black"
+                                  Text="{Binding Title, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+                </Grid>
+                
+               <!--Расположение файла-->
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"></ColumnDefinition>
+                        <ColumnDefinition Width="Auto"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <!--Путь и заголовок-->
+                    <Grid Grid.Column="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+
+                        <!--Метка заголовка-->
+                        <TextBlock FontWeight="Black" Margin="5, 0, 0, 0" TextDecorations="Underline">PATH:</TextBlock>
+                        <Rectangle Fill="#FFF0F0F0" Margin="15, 15, 35, 15" Grid.Row="1">
+                            <Rectangle.BitmapEffect>
+                                <DropShadowBitmapEffect ShadowDepth="1" Direction="1" Opacity="0.1"></DropShadowBitmapEffect>
+                            </Rectangle.BitmapEffect>
+                        </Rectangle>
+                        <!--Путь-->
+                        <TextBox Grid.Row="1" Margin="10" Height="30" Background="Transparent" BorderThickness="0" Foreground="DarkGreen" FontSize="10" TextWrapping="Wrap" FontWeight="Black"
+                                  Text="{Binding BookLocation, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>                      
+                    </Grid>
+
+                    <!--Кнопка выбора-->
+                    <Grid Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+
+                        <Button Grid.Row="1" Height="30" Content="browse" Margin="10" Background="#FF4B4B4B" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" Command="{Binding ChoosePathCommand}"></Button>
+                    </Grid>                    
+                </Grid>
+
+                <!--Часто используемый код-->
+                <Grid Grid.Row="2">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <!--Заголовок-->
+                    <TextBlock FontWeight="Black" Margin="5, 0, 0, 0" TextDecorations="Underline">CODE:</TextBlock>
+                    <Rectangle Fill="#FFF0F0F0" Margin="15, 15, 35, 15" Grid.Row="1" >
+                        <Rectangle.BitmapEffect>
+                            <DropShadowBitmapEffect ShadowDepth="1" Direction="1" Opacity="0.1"></DropShadowBitmapEffect>
+                        </Rectangle.BitmapEffect>
+                    </Rectangle>
+                    <!--Поле для ввода кода-->
+
+                    <extwndedWpfToolKit:RichTextBox Grid.Row="1" IsReadOnly="{Binding IsEditingBook}" Text="{Binding UseCode, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="10" Background="Transparent" BorderThickness="0"
+                             VerticalScrollBarVisibility="Auto" AcceptsReturn="True" AcceptsTab="True"  FontWeight="Thin" MinHeight="50" MaxHeight="200"></extwndedWpfToolKit:RichTextBox>
+                    <!--<TextBox Text="{Binding UseCode, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Grid.Row="1" Margin="10" Background="Transparent" BorderThickness="0"
+                             VerticalScrollBarVisibility="Auto"  AcceptsReturn="True" AcceptsTab="True" TextWrapping="Wrap" FontWeight="Thin" Foreground="Black" FontFamily="Consolas">
+                    </TextBox>-->
+
+                </Grid>
+                
+                <Button Grid.Row="3" Content="Create Book" Margin="10" HorizontalAlignment="Right" Background="#FF4B4B4B" Foreground="White" Command="{Binding AddBookCommand}" x:Name="btnCreateBook"></Button>
+            </Grid>
+
+            <!--Нижняя часть приложения-->
+            <Grid Grid.Row="2">
+                <Rectangle Fill="#FF007ACC" Height="20"></Rectangle>
+                <!--<Label  x:Name="LblStatus" Content="{Binding AddBookViewModelLazy.Value.Status}" Margin="10, 0, 0, 0" Foreground="White" FontSize="10" VerticalAlignment="Center" Padding="0"></Label>-->
+                <StatusBar Background="Transparent" Padding="0" FontSize="10" x:Name="StatusBarStatus"></StatusBar>
+            </Grid>
+        </Grid>
+    </Border>
+</Window>
